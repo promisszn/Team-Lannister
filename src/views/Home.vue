@@ -1,5 +1,5 @@
 <template>
-  <div class="home flex flex-row xl:h-screen lg:overflow-hidden pop">
+  <div class="home blue flex flex-row xl:h-screen lg:overflow-hidden pop">
     <Sidebar />
     <PageContent />
   </div>
