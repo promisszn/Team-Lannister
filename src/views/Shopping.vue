@@ -1,7 +1,7 @@
 <template>
   <div class="relative">
     <button
-      class="absolute font-bold text-xl -bottom-8 right-24"
+      class="absolute font-bold text-xl -top-8 right-24"
       v-on:click="component = 'shopping'"
       v-show="component == 'checkout'"
     >
